@@ -1,0 +1,4 @@
+file 'videos/advanced_intro , Data Science.mp4'
+file 'videos/conclusion , Data Science.mp4'
+file 'videos/intermediat , Data Science.mp4'
+file 'videos/introduction_powerBi , Data Science.mp4'

@@ -5,7 +5,8 @@ files = [
     "advanced_intro , Data Science.mp4",
     "conclusion , Data Science.mp4",
     "intermediat , Data Science.mp4",
-    "introduction_powerBi , Data Science.mp4"
+    "introduction_powerBi , Data Science.mp4",
+    "sample.mp4"
 ]
 
 for file in files:

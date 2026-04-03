@@ -2,18 +2,15 @@ import whisper
 import json
 
 # Load model
-model = whisper.load_model("large-v2")
+model = whisper.load_model("base")
 
 # Transcribe audio
 result = model.transcribe(
-    audio="audios/sample.mp3",
+    audio="D:\\RAG\\audios\\sample2.mp4.mp3",
     language="hi",
     task="translate",
     word_timestamps=False
 )
-
-# Print segments
-print(result["segments"])
 
 # Create chunks for RAG
 chunks = []
@@ -25,7 +22,7 @@ for segment in result["segments"]:
         "text": segment["text"]
     })
 
-# Print chunks
+# Print clean chunks
 print("\nChunks:\n", chunks)
 
 # Save chunks to JSON

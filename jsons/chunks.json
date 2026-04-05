@@ -1,0 +1,462 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.16,
+        "text": " Now what is verb?"
+    },
+    {
+        "start": 3.16,
+        "end": 6.48,
+        "text": " So Google may be a non-a verb."
+    },
+    {
+        "start": 6.48,
+        "end": 7.96,
+        "text": " So tell it in chat box."
+    },
+    {
+        "start": 7.96,
+        "end": 10.68,
+        "text": " Google about no we take R&D private limit."
+    },
+    {
+        "start": 10.68,
+        "end": 11.84,
+        "text": " Which one is verb?"
+    },
+    {
+        "start": 11.84,
+        "end": 13.56,
+        "text": " Which one is noun?"
+    },
+    {
+        "start": 13.56,
+        "end": 14.56,
+        "text": " Which word is noun?"
+    },
+    {
+        "start": 14.56,
+        "end": 15.56,
+        "text": " Tell it."
+    },
+    {
+        "start": 15.56,
+        "end": 19.04,
+        "text": " So it will extract that way."
+    },
+    {
+        "start": 19.04,
+        "end": 26.2,
+        "text": " So next name the entry recognition, which is, recognition the word as the movie monitor"
+    },
+    {
+        "start": 26.2,
+        "end": 30.439999999999998,
+        "text": " the value, organize location, quantity or a person."
+    },
+    {
+        "start": 30.439999999999998,
+        "end": 33.32,
+        "text": " Here you see the Google as a verb."
+    },
+    {
+        "start": 33.32,
+        "end": 37.519999999999996,
+        "text": " So Google it will abort the no-vita."
+    },
+    {
+        "start": 37.519999999999996,
+        "end": 43.2,
+        "text": " So Google abort the no-vita is a verb that no-vita is the private limit as an organization."
+    },
+    {
+        "start": 43.2,
+        "end": 44.92,
+        "text": " So this is the extraction."
+    },
+    {
+        "start": 44.92,
+        "end": 51.44,
+        "text": " The name of entity, the name entry recognition, it will extract the sentence in this way."
+    },
+    {
+        "start": 51.44,
+        "end": 54.64,
+        "text": " Verb noun and then like this way."
+    },
+    {
+        "start": 54.64,
+        "end": 55.64,
+        "text": " Organization the thing."
+    },
+    {
+        "start": 55.64,
+        "end": 58.96,
+        "text": " And here it will extract the noun verb adjectives."
+    },
+    {
+        "start": 58.96,
+        "end": 61.8,
+        "text": " So that's called a name entity recognition."
+    },
+    {
+        "start": 61.8,
+        "end": 63.6,
+        "text": " Next one is chunking."
+    },
+    {
+        "start": 63.6,
+        "end": 68.12,
+        "text": " Chunking is opposite to the tokenized."
+    },
+    {
+        "start": 68.12,
+        "end": 69.76,
+        "text": " What is the tokenized workers?"
+    },
+    {
+        "start": 69.76,
+        "end": 72.64,
+        "text": " It will split the words from the sentence."
+    },
+    {
+        "start": 72.64,
+        "end": 77.84,
+        "text": " So what is chunking means it will join the words from the, it's hurry, join sentence"
+    },
+    {
+        "start": 77.84,
+        "end": 79.64,
+        "text": " from the words."
+    },
+    {
+        "start": 79.64,
+        "end": 83.24000000000001,
+        "text": " So picking a piece of words and form into the phases."
+    },
+    {
+        "start": 83.24000000000001,
+        "end": 84.76,
+        "text": " What is the time right now?"
+    },
+    {
+        "start": 84.76,
+        "end": 88.48,
+        "text": " It will the like a piece of words, right?"
+    },
+    {
+        "start": 88.48,
+        "end": 89.48,
+        "text": " Separated words."
+    },
+    {
+        "start": 89.48,
+        "end": 91.08000000000001,
+        "text": " It will join it and make it own sentence."
+    },
+    {
+        "start": 91.08000000000001,
+        "end": 93.16000000000001,
+        "text": " It's called a chunking."
+    },
+    {
+        "start": 93.16000000000001,
+        "end": 94.36,
+        "text": " It's very simple, right?"
+    },
+    {
+        "start": 94.36,
+        "end": 96.16000000000001,
+        "text": " So NLP terminology is clear."
+    },
+    {
+        "start": 96.16000000000001,
+        "end": 98.96000000000001,
+        "text": " You just type NLP, T, clear and a chat box."
+    },
+    {
+        "start": 98.96000000000001,
+        "end": 101.56,
+        "text": " NLP, T, clear and a chat box."
+    },
+    {
+        "start": 101.56,
+        "end": 103.36000000000001,
+        "text": " It's a very easy session guys."
+    },
+    {
+        "start": 103.36000000000001,
+        "end": 106.96000000000001,
+        "text": " In the end you all getting happy."
+    },
+    {
+        "start": 106.96000000000001,
+        "end": 110.88000000000001,
+        "text": " Okay."
+    },
+    {
+        "start": 110.88,
+        "end": 115.19999999999999,
+        "text": " The next is NLTK which is natural language toolkit."
+    },
+    {
+        "start": 115.19999999999999,
+        "end": 116.19999999999999,
+        "text": " Okay."
+    },
+    {
+        "start": 116.19999999999999,
+        "end": 120.24,
+        "text": " So what is natural language toolkit in the sense of it is okay."
+    },
+    {
+        "start": 120.24,
+        "end": 123.08,
+        "text": " So one of the important library in the NLP."
+    },
+    {
+        "start": 123.08,
+        "end": 124.08,
+        "text": " Sorry, NLP."
+    },
+    {
+        "start": 124.08,
+        "end": 128.92,
+        "text": " If you are using a NLP in a programmatic way, you need to use the NLP library which is"
+    },
+    {
+        "start": 128.92,
+        "end": 131.35999999999999,
+        "text": " name called natural language toolkit."
+    },
+    {
+        "start": 131.35999999999999,
+        "end": 135.92,
+        "text": " This toolkit is one of the most powerful NLP libraries which cut in the packages to make"
+    },
+    {
+        "start": 135.92,
+        "end": 140.8,
+        "text": " a mission understand the human language and it should replay into that appropriate response."
+    },
+    {
+        "start": 140.8,
+        "end": 141.8,
+        "text": " Okay."
+    },
+    {
+        "start": 141.8,
+        "end": 148.48000000000002,
+        "text": " So what are the NLTK can do is you do the tokenization stemming, limalization, punctuation,"
+    },
+    {
+        "start": 148.48000000000002,
+        "end": 155.48000000000002,
+        "text": " character count, word count, some of the packages will do, discuss and this for this, right."
+    },
+    {
+        "start": 155.48000000000002,
+        "end": 159.64000000000001,
+        "text": " So because here I show the terminology of it, right."
+    },
+    {
+        "start": 159.64000000000001,
+        "end": 163.74,
+        "text": " So every process like tokenization stemming, limalization, pottox speed, name of entity"
+    },
+    {
+        "start": 163.74,
+        "end": 165.72000000000003,
+        "text": " recognition, chunking, everything."
+    },
+    {
+        "start": 165.72000000000003,
+        "end": 169.12,
+        "text": " It all undoes into this library."
+    },
+    {
+        "start": 169.12,
+        "end": 175.92000000000002,
+        "text": " NLP is a technology, NLTK is a library of the NLP technology."
+    },
+    {
+        "start": 175.92000000000002,
+        "end": 176.92000000000002,
+        "text": " Okay."
+    },
+    {
+        "start": 176.92000000000002,
+        "end": 181.4,
+        "text": " So what is NLTK is maxed-relanguage toolkit, install NLTK."
+    },
+    {
+        "start": 181.4,
+        "end": 182.72,
+        "text": " This is a command for it."
+    },
+    {
+        "start": 182.72,
+        "end": 183.72,
+        "text": " Okay."
+    },
+    {
+        "start": 183.72,
+        "end": 185.52,
+        "text": " So PIP space, install space, NLTK."
+    },
+    {
+        "start": 185.52,
+        "end": 190.52,
+        "text": " Open your command prompt, you simply type PIP space, install."
+    },
+    {
+        "start": 190.52,
+        "end": 191.52,
+        "text": " Okay."
+    },
+    {
+        "start": 191.52,
+        "end": 192.76,
+        "text": " So install space, NLTK."
+    },
+    {
+        "start": 192.76,
+        "end": 193.76,
+        "text": " That's all."
+    },
+    {
+        "start": 193.76,
+        "end": 196.6,
+        "text": " If you press enter, it will automatically download it."
+    },
+    {
+        "start": 196.6,
+        "end": 197.6,
+        "text": " Okay."
+    },
+    {
+        "start": 197.6,
+        "end": 200.32,
+        "text": " So I will load up that thing, that's why I got a recombat order, it is satisfied in"
+    },
+    {
+        "start": 200.32,
+        "end": 201.32,
+        "text": " here."
+    },
+    {
+        "start": 201.32,
+        "end": 202.32,
+        "text": " Okay."
+    },
+    {
+        "start": 202.32,
+        "end": 203.32,
+        "text": " So I take this command as a snap guys."
+    },
+    {
+        "start": 203.32,
+        "end": 206.51999999999998,
+        "text": " As a live participants, I have even noted down, right."
+    },
+    {
+        "start": 206.51999999999998,
+        "end": 207.51999999999998,
+        "text": " Okay."
+    },
+    {
+        "start": 207.51999999999998,
+        "end": 211.35999999999999,
+        "text": " So if you are still out taking a note, it means you just type, still now, take in NLTK."
+    },
+    {
+        "start": 211.35999999999999,
+        "end": 212.35999999999999,
+        "text": " Okay."
+    },
+    {
+        "start": 212.35999999999999,
+        "end": 215.95999999999998,
+        "text": " So STT, yes, TT in NLTK."
+    },
+    {
+        "start": 215.95999999999998,
+        "end": 216.95999999999998,
+        "text": " Okay."
+    },
+    {
+        "start": 216.95999999999998,
+        "end": 218.92,
+        "text": " So sorry, S and D, still now taken, right."
+    },
+    {
+        "start": 218.92,
+        "end": 223.16,
+        "text": " So S and T, tell it in NLTK."
+    },
+    {
+        "start": 223.16,
+        "end": 224.16,
+        "text": " Okay."
+    },
+    {
+        "start": 224.16,
+        "end": 227.88,
+        "text": " So an external has a future extraction from the text."
+    },
+    {
+        "start": 227.88,
+        "end": 233.48,
+        "text": " And we have a count vectorized and hashing vectorized, T for dead vectorized."
+    },
+    {
+        "start": 233.48,
+        "end": 234.48,
+        "text": " Okay."
+    },
+    {
+        "start": 234.48,
+        "end": 241.12,
+        "text": " So with the help of these three methods, we can extract the future N a text."
+    },
+    {
+        "start": 241.12,
+        "end": 242.12,
+        "text": " Okay."
+    },
+    {
+        "start": 242.12,
+        "end": 244.16,
+        "text": " So here you see, what does count vectorized means?"
+    },
+    {
+        "start": 244.16,
+        "end": 250.0,
+        "text": " It convert the collection of text from a document to a matrix of the token count, which"
+    },
+    {
+        "start": 250.0,
+        "end": 251.76,
+        "text": " is here you see."
+    },
+    {
+        "start": 251.76,
+        "end": 255.92,
+        "text": " The cat in the hat, the cat ate the mouse."
+    },
+    {
+        "start": 255.92,
+        "end": 258.8,
+        "text": " This kind of sentence it would be taken."
+    },
+    {
+        "start": 258.8,
+        "end": 265.4,
+        "text": " So what is a hashing vectorized means convert a collections of text document to the matrix"
+    },
+    {
+        "start": 265.4,
+        "end": 267.71999999999997,
+        "text": " of the token occurrence, what occurs and..."
+    }
+]

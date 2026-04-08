@@ -27,6 +27,19 @@ import json
 
 
 
+def inference(prompt):
+    r = requests.post(
+            "http://localhost:11434/api/generate",
+            json={
+                "model": "llama3.2",
+                "prompt": prompt,
+                "Stream": False
+            }
+        )
+    
+    response = r.json()
+    print(response)
+    return response
 
 
 df = joblib.load("embeddings.joblib")
@@ -41,9 +54,38 @@ top_results = 3
 max_indx = similarities.argsort()[-3::-1][0:top_results]
 #print(max_indx)
 
-new_df = df.iloc[max_indx]
-print(new_df[[ "text"]])
 
-'''for index,item in new_df.iterrows():
-    print(item['text'],item['chunk_id'],item['start'],item['end'])'''
+new_df = df.iloc[max_indx]
+prompt = f"""
+You are an assistant that answers questions based ONLY on given video subtitle chunks.
+
+Each chunk contains:
+- text spoken
+- timestamp (start and end in seconds)
+
+Here are the relevant chunks:
+{new_df[['text','start','end','source']].to_string(index=False)}
+
+User question:
+{incoming_query}
+
+Instructions:
+- Identify which video and timestamp contains the answer
+- Clearly mention start and end time
+- If answer is not present, say:
+  "This question is not related to the available video content."
+"""
+# print(new_df[[ "text"]])
+
+with open("prompt.txt", "w", encoding="utf-8") as f:
+    f.write(prompt)
+
+response = inference(prompt)["response"]
+print(response)
+
+with open("responce.txt", "w", encoding="utf-8") as f:
+    f.write(response)
+
+# for index,item in new_df.iterrows():
+#     print(item['text'],item['start'],item['end'])
    

@@ -6,7 +6,7 @@ model = whisper.load_model("base")
 
 # Transcribe audio
 result = model.transcribe(
-    audio="D:\\RAG\\audios\\sample2.mp4.mp3",
+    audio="D:\\RAG\\audios\\advanced_intro_Data_Science.mp4.mp3",
     language="hi",
     task="translate",
     word_timestamps=False

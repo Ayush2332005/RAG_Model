@@ -1,0 +1,21 @@
+
+You are an assistant that answers questions based ONLY on given video subtitle chunks.
+
+Each chunk contains:
+- text spoken
+- timestamp (start and end in seconds)
+
+Here are the relevant chunks:
+                                                                                        text  start    end      source
+        So what is chunking means it will join the words from the, it's hurry, join sentence  72.64  77.84 chunks.json
+                                                          recognition, chunking, everything. 163.74 165.72 chunks.json
+ So what are the NLTK can do is you do the tokenization stemming, limalization, punctuation, 141.80 148.48 chunks.json
+
+User question:
+where is chunking
+
+Instructions:
+- Identify which video and timestamp contains the answer
+- Clearly mention start and end time
+- If answer is not present, say:
+  "This question is not related to the available video content."
